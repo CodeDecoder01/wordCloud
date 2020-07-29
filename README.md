@@ -13,3 +13,7 @@ mentioned within a given text and the more important it is.
 
 The python script takes in a text file and uses standard processing to remove punctuations and uninteresting words. The output is a jpeg image with the word cloud
 generated based on the frequency of words in the input file.
+
+
+
+![cloud](https://user-images.githubusercontent.com/47826916/88796789-df16e600-d1bf-11ea-8d51-0dbadf9f27c4.png)
